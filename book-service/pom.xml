@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hobbyprojects.readerapp</groupId>
-	<artifactId>userservice</artifactId>
+	<artifactId>book-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>userservice</name>
+	<name>bookservice</name>
 	<description>Crud repo for handling books catalogue</description>
 	<url/>
 	<licenses>
